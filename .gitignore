@@ -1,0 +1,15 @@
+# OS X
+.DS_Store
+
+# Virtualenv
+venv
+
+# Python
+*.pyc
+__pychache__
+
+# DB
+*.sqlite3
+
+# Django
+settings.py
